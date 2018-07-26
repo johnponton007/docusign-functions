@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="META-INF/lib/jersey-client-1.19.1.jar" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/appian-plug-in-sdk.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/bcprov-jdk15on-1.55.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/docusign-esign-java-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/jackson-annotations-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/jackson-core-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/jackson-databind-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/jackson-datatype-joda-2.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/jackson-jaxrs-base-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/jackson-jaxrs-json-provider-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/jackson-module-jaxb-annotations-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/java-jwt-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/jersey-multipart-1.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/joda-time-2.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/json-20140107.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/migbase64-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/mimepull-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/org.apache.oltu.oauth2.client-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/org.apache.oltu.oauth2.common-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/swagger-annotations-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/jersey-core-1.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jponton/Desktop/Jar Files/jersey-client-2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
